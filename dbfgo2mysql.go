@@ -19,7 +19,7 @@ import (
 	"time"
 
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/squeeze69/dbf"
+	"github.com/x5hell/dbf"
 )
 
 // default values and other constants
